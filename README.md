@@ -30,7 +30,7 @@ An expected layout and structure could take the following form
 
 ## CREATE + READ
 
-<img src="./readme_images/read.jpg" width="800">
+<img src="./read.png" width="800">
 
 [IMAGE](readme_images/read.jpg)
 
