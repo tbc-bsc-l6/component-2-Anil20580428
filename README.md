@@ -31,6 +31,7 @@ An expected layout and structure could take the following form
 ## CREATE + READ
 
 <img src="./read.png" width="800">
+<img src="./add.png" width="800">
 
 [IMAGE](readme_images/read.jpg)
 
@@ -39,6 +40,7 @@ Full Product Listing will include a blank template card at the end with POST (ad
 ### UPDATE + DELETE
 
 <img src="./edit.png" width="400">
+<img src="./delete.png" width="400">
 
 [IMAGE](readme_images/read.jpg)
 
