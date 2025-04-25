@@ -38,7 +38,7 @@ Full Product Listing will include a blank template card at the end with POST (ad
 
 ### UPDATE + DELETE
 
-<img src="./readme_images/update.jpg" width="400">
+<img src="./edit.png" width="400">
 
 [IMAGE](readme_images/read.jpg)
 
